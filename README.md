@@ -1,4 +1,5 @@
-# Opus
+A codex pet that uses an ollama database to connect and has sort-of slow connection, may need updates. Very stable
+
 
 A small always-on-top AI desktop pet for Windows 11, powered by a local Ollama model.
 
